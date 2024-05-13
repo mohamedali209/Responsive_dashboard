@@ -1,16 +1,16 @@
-# dashboard
+# Dashboard
 
-A new Flutter project.
+Responsive and adaptive UI for mobile ,table and desktop layouts.
 
-## Getting Started
+Mobile layout:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Mobile layout](https://github.com/mohamedali209/Responsive_dashboard/assets/157232556/303dcc47-eb01-43c4-a229-9dcf1451ba7f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tablet layout:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![tablet_layout](https://github.com/mohamedali209/Responsive_dashboard/assets/157232556/69e41533-58f9-474d-a69a-52b56ca77369)
+
+Desktop layout:
+
+![desktop_layout](https://github.com/mohamedali209/Responsive_dashboard/assets/157232556/239a67e3-53bd-4498-87b7-e58eadd5cecd)
